@@ -3,6 +3,9 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
+    public int testAll(){
+        int z = 2;
+    }
 
     public static void main(String[] args) {
 
